@@ -1,0 +1,18 @@
+Charusat Logo, dept logo, project Title
+2nd Slide:
+
+Table of Content
+
+3rd Slide:
+Intro Of Project,Desc of Project.
+
+
+4th Slide:
+Development Environment, Software Hardware env. OR Tools and Technologies Used only vs code and that
+
+5th Slide:
+Soft and Hardware Req.
+
+
+
+
